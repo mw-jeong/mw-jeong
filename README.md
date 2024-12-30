@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mw-jeong
 - 👀 I’m interested in Statistics, Data Science
-- 🌱 I’m currently learning Data Science at Grad School of Data Science, KASIT
+- 🌱 I’m currently learning Data Science at Graduate School of Data Science, KAIST
 
 
 <!---
